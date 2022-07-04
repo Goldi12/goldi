@@ -1,4 +1,4 @@
-![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)
+![MasterHead](https://i.pinimg.com/originals/e6/71/b0/e671b030905d5ca04572953a747facc7.gif)
 
 <h1 align="center">Hi 👋, I'm goldi gupta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
